@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{    
+    margin: 0 auto;
+    width: 100%;
+    font-family: lato;
+    
+}
+.article{
+    margin: 0 10%;
+    
+}
+
+
+h1{
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+h4{
+    margin: 8px 0 8px 0;
+}
+p{
+    margin: 5px 0 ;
+}
+spam{
+    font-weight: 700;
+}
